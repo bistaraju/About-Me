@@ -10,7 +10,7 @@ Before joining the lab, I participated in research projects focused on dendrocli
 
 
 ## 📈 GitHub Stats
-[![R-Bista's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Bista&show_icons=true&theme=radical)](https://github.com/R-Bista/github-readme-stats)
+[![Raju-Bista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raju-Bista&show_icons=true&theme=radical)](https://github.com/Raju-Bista/github-readme-stats)
 
 ## 📚 What I'm currently learning
 - I'm currently diving deeper into Forest Genomics.
@@ -24,10 +24,10 @@ Before joining the lab, I participated in research projects focused on dendrocli
 
 - **Email:** bistaraj@msu.edu
 - **LinkedIn:** [@rajubista](https://www.linkedin.com/in/rajubista/)
-- **Twitter:** [@YourTwitterHandle](Your Twitter URL)
+- **Twitter:** [@Raju20ta](https://twitter.com/Raju20ta))
 
-## 🚀 Some Projects I'm Proud Of
+## 🚀 Some Projects
 
 - [Project Name](Link to Project) - A brief description of what it does
-- [Another Project Name](Link to Another Project) - Explanation
+
 
