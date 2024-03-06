@@ -7,8 +7,7 @@ Before joining the lab, I participated in research projects focused on dendrocli
 
 ## 🛠 Skills
 
-- **Languages:** C++
-- **
+
 
 ## 📈 GitHub Stats
 [![R-Bista's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Bista&show_icons=true&theme=radical)](https://github.com/R-Bista/github-readme-stats)
